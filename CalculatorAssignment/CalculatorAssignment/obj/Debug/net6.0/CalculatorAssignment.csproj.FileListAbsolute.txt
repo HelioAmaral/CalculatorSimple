@@ -1,0 +1,15 @@
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/bin/Debug/net6.0/CalculatorAssignment
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/bin/Debug/net6.0/CalculatorAssignment.deps.json
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/bin/Debug/net6.0/CalculatorAssignment.runtimeconfig.json
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/bin/Debug/net6.0/CalculatorAssignment.dll
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/bin/Debug/net6.0/CalculatorAssignment.pdb
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/obj/Debug/net6.0/CalculatorAssignment.csproj.AssemblyReference.cache
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/obj/Debug/net6.0/CalculatorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/obj/Debug/net6.0/CalculatorAssignment.AssemblyInfoInputs.cache
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/obj/Debug/net6.0/CalculatorAssignment.AssemblyInfo.cs
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/obj/Debug/net6.0/CalculatorAssignment.csproj.CoreCompileInputs.cache
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/obj/Debug/net6.0/CalculatorAssignment.dll
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/obj/Debug/net6.0/refint/CalculatorAssignment.dll
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/obj/Debug/net6.0/CalculatorAssignment.pdb
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/obj/Debug/net6.0/CalculatorAssignment.genruntimeconfig.cache
+/Volumes/My Passport/C#/CalculatorAssignment/CalculatorAssignment/obj/Debug/net6.0/ref/CalculatorAssignment.dll
